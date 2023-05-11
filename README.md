@@ -10,6 +10,7 @@ Partecipants:
 - [RobertoEdoardoPrina](https://github.com/RobertoEdoardoPrina)
 - [carbonazza00](https://github.com/carbonazza00)
 - [Stefano Dessena](mailto:s.dessena@campus.unimib.it)
+- [Chiara Belfi](https://www.linkedin.com/in/chiara-belfi-b5025a206)
 
 Sponsor Company:
 - [Project s.r.l. Informatica](https://www.presenzedelpersonale.it/)
