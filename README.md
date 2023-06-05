@@ -1,4 +1,4 @@
-# ISSAPULIRE-2023
+# ISSAPULIRE 2023
 ## HACKATHON
 
 Hackathon made by ISSA PULIRE 26TH edition
